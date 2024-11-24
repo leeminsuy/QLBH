@@ -1,0 +1,166 @@
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.exe
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.deps.json
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.runtimeconfig.json
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.pdb
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Properties.Resources.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.AssemblyInfo.cs
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\refint\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.pdb
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.genruntimeconfig.cache
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\ref\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykh.D46A327F.Up2Date
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.khachhang.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.testkh.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Dangnhap1.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.dichvu1.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.phong.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Sudungphongcs.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.fromchinh.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.FROMSusungdv.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345..resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Hoadon.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Luuy.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Luuy2.resources
+C:\Users\Admin\Documents\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Thongke.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345..resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Dangnhap1.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.dichvu1.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.fromchinh.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.FROMSusungdv.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Hoadon.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.khachhang.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Luuy.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Luuy2.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.phong.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Properties.Resources.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.testkh.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Thongke.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\refint\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.pdb
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.exe
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.deps.json
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.runtimeconfig.json
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\quanlykhachsan12345.pdb
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.Sudungphongcs.resources
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.AssemblyInfo.cs
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykh.D46A327F.Up2Date
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\quanlykhachsan12345.genruntimeconfig.cache
+C:\Users\Admin\Documents\Đồ án qlks(Nhom2)\quanlykhachsan12345\obj\Debug\net8.0-windows\ref\quanlykhachsan12345.dll
